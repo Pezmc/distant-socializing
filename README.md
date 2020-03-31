@@ -65,6 +65,45 @@ Games include:
 
 They have a tutorial on [how to set up Jackbox for remote play](https://jackboxgames.com/how-to-play-jackbox-games-with-friends-and-family-remotely/). You can use any tool that can capture your screen, such as Google Hangouts, Zoom or Discord.
 
+## Video Games
+
+Play online multiplayer (everyone needs a copy); or local multiplayer games using a service such as [Parsec](https://parsecgaming.com/features/) or [Steam Remote Play Together](https://store.steampowered.com/remoteplay).
+
+Be sure to join a voice chat!
+
+### Local Multiplayer
+
+Since you can't all be in the same room together, you can make use of low latency video streaming to play local multiplayer only games with friends.  
+
+#### Local only
+
+ - [STARWHAL](https://store.steampowered.com/app/263020/STARWHAL/)
+ - [Nidhogg](https://store.steampowered.com/app/94400/Nidhogg/)
+ - [Lovers in a Dangerous Spacetime](https://store.steampowered.com/app/252110/Lovers_in_a_Dangerous_Spacetime/)
+ 
+#### Both online and local
+ 
+ - [Portal 2](https://store.steampowered.com/app/620/)
+ - [Overcooked 2](https://store.steampowered.com/app/728880/Overcooked_2/)
+ - [Human Fall Flat](https://store.steampowered.com/app/477160/Human_Fall_Flat/)
+ - [Gang Beasts](https://store.steampowered.com/app/285900/Gang_Beasts/)
+
+### Online Multiplayer
+
+There are simply too many to choose from to list them all! As well as the above local multiplayer games that support online play, there's online only options from PUBG, Fortnite and Minecraft.
+Here's are some great games with a low barrier to entry:
+
+ - [Stardew Valley](https://store.steampowered.com/app/413150/Stardew_Valley/)
+ - [Terraria](https://store.steampowered.com/app/105600/Terraria/)
+ - [Monaco](https://store.steampowered.com/app/113020/Monaco_Whats_Yours_Is_Mine/)
+ - [Trine: Enchanted Edition](https://store.steampowered.com/app/35700/Trine_Enchanted_Edition/)
+
+You can also find several lists online:
+
+ - [GamesRadar](https://www.gamesradar.com/uk/best-online-games/) - 25 best online games
+ - [PCGamer](https://www.pcgamer.com/uk/the-best-co-op-games/) - best coop games
+ - [Steam250](https://steam250.com/tag/co-op) - top 250 coop games
+
 ## Activities
 
 ### Watch a Film
