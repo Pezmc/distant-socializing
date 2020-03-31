@@ -1,6 +1,6 @@
 # Distant Socializing, during Physical Distancing
 
-Suggested distant socializing tools, games and activities to keep in touch with family, friends and loved ones during social distancing and the coronavirus (COVID-19) pendemic.
+Suggested distant socializing tools, games and activities to help keep in touch with family, friends and loved ones during social distancing and the coronavirus (COVID-19) pendemic.
 
 ## Tools
 
@@ -12,6 +12,7 @@ Suggested distant socializing tools, games and activities to keep in touch with 
 - [Facetime](https://support.apple.com/en-gb/HT204380) - Apple only video calls on Mac and iPhone, maximum 32 users
 - [Skype](https://www.skype.com/en/) - Up to 10 users, screen sharing and remote desktop
 - [Discord](https://discordapp.com/) - Chat app, with video and voice calling, no limit for voice participants
+- [HouseParty](https://houseparty.com/) - An app for iOS and Android for group video chat with up to 8 people, it also includes games such as Heads Up, Draw Something and Quizzes
 
 #### Paid
 
