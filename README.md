@@ -1,6 +1,6 @@
 # Distant Socializing, during Physical Distancing
 
-Suggested distant socializing games, tools and activities to keep in touch with family, friends and loved ones during social distancing and the coronavirus (COVID-19) pendemic.
+Suggested distant socializing tools, games and activities to keep in touch with family, friends and loved ones during social distancing and the coronavirus (COVID-19) pendemic.
 
 ## Tools
 
@@ -11,6 +11,7 @@ Suggested distant socializing games, tools and activities to keep in touch with 
 - [Google Hangouts](https://hangouts.google.com/) - Up to 25 users, screen sharing, apps for Android, iOS and works in browser
 - [Facetime](https://support.apple.com/en-gb/HT204380) - Apple only video calls on Mac and iPhone, maximum 32 users
 - [Skype](https://www.skype.com/en/) - Up to 10 users, screen sharing and remote desktop
+- [Discord](https://discordapp.com/) - Chat app, with video and voice calling, no limit for voice participants
 
 #### Paid
 
@@ -61,3 +62,15 @@ Games include:
  - Fibbage - create fake answers to trivia questions to trick your friends
 
 They have a tutorial on [how to set up Jackbox for remote play](https://jackboxgames.com/how-to-play-jackbox-games-with-friends-and-family-remotely/). You can use any tool that can capture your screen, such as Google Hangouts, Zoom or Discord.
+
+## Activities
+
+### Watch a Film
+
+Hop on a voice or video call and all start watching a film on your favourite streaming service, or live TV at the same time. It's _almost_ like being in the same room. Though you'll have to all hit play at exactly the same time!
+
+### Netflix Party
+
+[Netflix Party](https://www.netflixparty.com/) is a Chrome Extension that sync's a Netflix video between several computers and adds group chat. For a monthly donation, it also includes built in voice chat, but you could also use another conferencing tool. Your friends will need a paid Netflix subscription to watch.
+
+Choose your favourite TV show or Movie, use the extension to start a party, then send the link to your friends. They'll see the video and it will be kept in sync between you all! It only works on the computer, so if you want to watch on the TV you'll need to plug your laptop or desktop in! 
