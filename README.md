@@ -76,3 +76,7 @@ Hop on a voice or video call and all start watching a film on your favourite str
 [Netflix Party](https://www.netflixparty.com/) is a Chrome Extension that sync's a Netflix video between several computers and adds group chat. For a monthly donation, it also includes built in voice chat, but you could also use another conferencing tool. Your friends will need a paid Netflix subscription to watch.
 
 Choose your favourite TV show or Movie, use the extension to start a party, then send the link to your friends. They'll see the video and it will be kept in sync between you all! It only works on the computer, so if you want to watch on the TV you'll need to plug your laptop or desktop in! 
+
+### Host a Quiz
+
+Prepare some trivia questions by googling  "trivia questions" for resources, then hop on your favourite video chat, or use a streaming service such as Twitch, Facebook Live, or YouTube Live. You're in charge, but the general format would be several rounds of categories, followed by general knowledge questions. Then you can read out the answers and have your friends mark themselves!
