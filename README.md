@@ -65,30 +65,28 @@ Games include:
 
 They have a tutorial on [how to set up Jackbox for remote play](https://jackboxgames.com/how-to-play-jackbox-games-with-friends-and-family-remotely/). You can use any tool that can capture your screen, such as Google Hangouts, Zoom or Discord.
 
-## Video Games
+### Other Video Games
 
-Play online multiplayer (everyone needs a copy); or local multiplayer games using a service such as [Parsec](https://parsecgaming.com/features/) or [Steam Remote Play Together](https://store.steampowered.com/remoteplay).
+Play online multiplayer (everyone needs a copy); or local multiplayer games using a remote play service. Be sure to join a voice chat with everyone!
 
-Be sure to join a voice chat!
+#### Local Multiplayer
 
-### Local Multiplayer
+Since you can't all be in the same room together, you can make use of low latency video streaming with [Parsec](https://parsecgaming.com/features/) or [Steam Remote Play Together](https://store.steampowered.com/remoteplay) to play local multiplayer only games with friends.  
 
-Since you can't all be in the same room together, you can make use of low latency video streaming to play local multiplayer only games with friends.  
-
-#### Local only
+##### Local only
 
  - [STARWHAL](https://store.steampowered.com/app/263020/STARWHAL/)
  - [Nidhogg](https://store.steampowered.com/app/94400/Nidhogg/)
  - [Lovers in a Dangerous Spacetime](https://store.steampowered.com/app/252110/Lovers_in_a_Dangerous_Spacetime/)
  
-#### Both online and local
+##### Both online and local
  
  - [Portal 2](https://store.steampowered.com/app/620/)
  - [Overcooked 2](https://store.steampowered.com/app/728880/Overcooked_2/)
  - [Human Fall Flat](https://store.steampowered.com/app/477160/Human_Fall_Flat/)
  - [Gang Beasts](https://store.steampowered.com/app/285900/Gang_Beasts/)
 
-### Online Multiplayer
+#### Online Multiplayer
 
 There are simply too many to choose from to list them all! As well as the above local multiplayer games that support online play, there's online only options from PUBG, Fortnite and Minecraft.
 Here's are some great games with a low barrier to entry:
