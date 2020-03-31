@@ -32,6 +32,7 @@ There are many different board game sites where you can play board games online 
 - [Board Game Arena](https://boardgamearena.com/) - 150+ games including Race for the Galaxy, 7 Wonders, Carcasonne and Coup
 - [Yucata](https://www.yucata.de/en) - 100+ games, including Stone Age, Castles of Burgundy and El Grande
 - [BrettspielWelt](http://www.brettspielwelt.de/?nation=en) - 50+ games, including 7 Wonders, Carcasonne, Settlers of Catan
+- [PlayingCards](http://playingcards.io/) - 5+ games, including Cards Against Humanity, Checkers and Go Fish 
 
 #### Gaming Simulators
 
