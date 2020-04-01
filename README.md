@@ -58,7 +58,7 @@ Recently, several publishers have been releasing digital versions of their board
 
 - [RISK](https://store.steampowered.com/app/1128810/RISK_Global_Domination/) - 1-6 player, fully licensed copy of the classic area control game
 - [UNO](https://store.steampowered.com/app/470220/UNO/) - 1-4 players, classic card game of color and number matching
-- [Skythe: Digital Edition](https://store.steampowered.com/app/718560/Scythe_Digital_Edition/) - 1-5 player, an engine building war and territory control game
+- [Scythe: Digital Edition](https://store.steampowered.com/app/718560/Scythe_Digital_Edition/) - 1-5 player, an engine building war and territory control game
 - [Charterstone](https://store.steampowered.com/app/1046660/Charterstone_Digital_Edition/) - 2-6 player, campaign based strategy game
 
 More can be found on the [Steam](https://store.steampowered.com/tags/en/Board+Game), and [Humble](https://www.humblebundle.com/store/search?sort=bestselling&genre=tabletop) Stores
