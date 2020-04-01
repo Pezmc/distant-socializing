@@ -33,7 +33,16 @@ There are many different board game sites where you can play board games online 
 - [Yucata](https://www.yucata.de/en) - 100+ games, including Stone Age, Castles of Burgundy and El Grande
 - [BrettspielWelt](http://www.brettspielwelt.de/?nation=en) - 50+ games, including 7 Wonders, Carcasonne, Settlers of Catan
 - [PlayingCards](http://playingcards.io/) - 5+ games, including Cards Against Humanity, Checkers and Go Fish 
-- [Secret Hitler](https://secrethitler.io/) - only the social deduction game Secret Hitler, for 5-10 players
+
+##### Specific Suggestions
+
+Some games with a low barrier to entry that work well remotely!
+
+- [Secret Hitler](https://secrethitler.io/) - a social deduction game for 5-10 players
+- [Codenames](https://www.horsepaste.com/) - a clue giving game for two teams, 4+ players
+- [Cards Against Humanity](http://playingcards.io/game/remote-insensitivity) - a party game with fill in the blanks
+- [Coup](https://boardgamearena.com/gamepanel?game=coupcitystate) - a strategy and bluffing game for 2-6 players
+- [Telestrations](https://drawception.com/dashboard/) - the telephone game but with drawings 6/12/15 players
 
 #### Gaming Simulators
 
