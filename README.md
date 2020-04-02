@@ -142,3 +142,20 @@ Choose your favourite TV show or Movie, use the extension to start a party, then
 ### Host a Quiz
 
 Prepare some trivia questions by googling  "trivia questions" for resources, then hop on your favourite video chat, or use a streaming service such as Twitch, Facebook Live, or YouTube Live. You're in charge, but the general format would be several rounds of categories, followed by general knowledge questions. Then you can read out the answers and have your friends mark themselves!
+
+### Games Over Video Chat
+
+There's a whole bunch of classic parlour games that can be easily adapted to video calls.
+Examples include:
+
+ - Truth or dare
+ - Kiss, Marry, Kill
+ - Would you Rather?
+ - Never have I ever
+ 
+ Here are some longer lists and explainations for the ones you don't know:
+ 
+  - [ClassyWish - 15 best games to play on Facetime](http://www.classywish.com/games-to-play-over-facetime/)
+  - [Free Apps for Me - 15 Cool Games to Play over Facetime or Skype Calls](https://freeappsforme.com/games-to-play-over-skype/)
+  - [App Pearl - 21 Fun games to play over Facetime or Skype calls](https://apppearl.com/games-to-play-over-calls/)
+  
