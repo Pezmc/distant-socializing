@@ -127,6 +127,11 @@ You can also find several lists online:
  - [PCGamer](https://www.pcgamer.com/uk/the-best-co-op-games/) - best coop games
  - [Steam250](https://steam250.com/tag/co-op) - top 250 coop games
 
+### Role Playing
+
+Role playing games such as DnD, can easily be moved into the virtual world.
+You can play without any tools at all, but it might be easier to make use of a website such as [Roll20](http://roll20.net]), [Fantasy Grounds](https://www.fantasygrounds.com/home/home.php), or [Tabletop Simulator](https://store.steampowered.com/app/286160/Tabletop_Simulator/).
+
 ## Activities
 
 ### Watch a Film
