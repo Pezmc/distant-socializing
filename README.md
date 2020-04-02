@@ -40,9 +40,10 @@ Some games with a low barrier to entry that work well remotely!
 
 - [Secret Hitler](https://secrethitler.io/) - a social deduction game for 5-10 players
 - [Codenames](https://www.horsepaste.com/) - a clue giving game for two teams, 4+ players
-- [Cards Against Humanity](http://playingcards.io/game/remote-insensitivity) - a party game with fill in the blanks
+- [Cards Against Humanity](http://playingcards.io/game/remote-insensitivity) - a party game with fill in the blanks ([alternative](https://pyx-1.pretendyoure.xyz/zy/game.jsp))
 - [Coup](https://boardgamearena.com/gamepanel?game=coupcitystate) - a strategy and bluffing game for 2-6 players
 - [Telestrations](https://drawception.com/dashboard/) - the telephone game but with drawings 6/12/15 players
+- [Settlers of Catan](https://catanuniverse.com/en/game/) - the classic board game in your browser for free
 
 #### Gaming Simulators
 
@@ -63,7 +64,9 @@ Recently, several publishers have been releasing digital versions of their board
 
 More can be found on the [Steam](https://store.steampowered.com/tags/en/Board+Game), and [Humble](https://www.humblebundle.com/store/search?sort=bestselling&genre=tabletop) Stores
 
-### Jackbox Games
+### Local Multiplayer "Dial In" Games
+
+#### Jackbox Games
 
 Jackbox Games are local multiplayer games designed to play with a group of friends on the same screen using everyone's mobile phones. However, they work surprisingly well over the internet. Setup a voice call, share your screen, and have people join the game from their phone or laptop.
 
@@ -75,7 +78,19 @@ Games include:
 
 They have a tutorial on [how to set up Jackbox for remote play](https://jackboxgames.com/how-to-play-jackbox-games-with-friends-and-family-remotely/). You can use any tool that can capture your screen, such as Google Hangouts, Zoom or Discord.
 
-### Other Video Games
+#### AirConsole
+
+Similar to Jackbox, these are local multiplayer games designed for couch play. Players connect using their smartphones, perfect for playing online. Share your screen on a video call, and have people dial in! A few games are available for free, but you need a $4.99/month membership to access them all, they do offer a free trial
+
+### Web Games
+
+Join a voice chat and try these games!
+
+- [Wiki Game](https://www.thewikigame.com/group) - Race from one wikipedia article to another 
+- [Stribbl.io](https://skribbl.io/) - take it in turns to guesss each others drawings
+- [LetsDraw](https://letsdraw.it/) - pictionary, drawing contest and competetive copying
+
+### Multiplayer Video Games
 
 Play online multiplayer (everyone needs a copy); or local multiplayer games using a remote play service. Be sure to join a voice chat with everyone!
 
