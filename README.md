@@ -32,10 +32,10 @@ There are several different options here, digital implementations of board games
 
 There are many different board game sites where you can play board games online for free. Some offer premium features for extra payment. The selection of games depends on the website.
 
-- [Tabletopia](https://tabletopia.com/) - 600+ games, inbcluding Sub Terra, Scythe, Love Letter and Santorini
-- [Board Game Arena](https://boardgamearena.com/) - 150+ games including Race for the Galaxy, 7 Wonders, Carcasonne and Coup
+- [Tabletopia](https://tabletopia.com/) - 600+ games, including Sub Terra, Scythe, Love Letter and Santorini
+- [Board Game Arena](https://boardgamearena.com/) - 150+ games including Race for the Galaxy, 7 Wonders, Carcassonne and Coup
 - [Yucata](https://www.yucata.de/en) - 100+ games, including Stone Age, Castles of Burgundy and El Grande
-- [BrettspielWelt](http://www.brettspielwelt.de/?nation=en) - 50+ games, including 7 Wonders, Carcasonne, Settlers of Catan
+- [BrettspielWelt](http://www.brettspielwelt.de/?nation=en) - 50+ games, including 7 Wonders, Carcassonne, Settlers of Catan
 - [PlayingCards](http://playingcards.io/) - 5+ games, including Cards Against Humanity, Checkers and Go Fish 
 
 ##### Specific Suggestions
@@ -53,11 +53,11 @@ Some games with a low barrier to entry that work well remotely!
 
 [Tabletop Simulator](https://www.tabletopsimulator.com/) emulates a 3D environment with a table, which you can "sit" around and interact with as you would in real life. Once you have the hang of how to manipulate the environment, you can play thousands of games. 
 
-Be aware that only a few of the games available are "legitimate" implementations and available for purchase, the majority of games are clones built by the community. Uou can download them from the [workshop](https://steamcommunity.com/workshop/browse/?appid=286160&browsesort=totaluniquesubscribers). Examples include UNO, The Settlers of Catan and Carcasonne.
+Be aware that only a few of the games available are "legitimate" implementations and available for purchase, the majority of games are clones built by the community and rely on the honour system. You can download them from the [Steam workshop](https://steamcommunity.com/workshop/browse/?appid=286160&browsesort=totaluniquesubscribers). Examples include UNO, The Settlers of Catan and Carcassonne.
 
 One downside is that all your players need to own a copy of Tabletop Simulator to join. It's currently available for 50% off at [Fanatical](https://tabletopsimulator.com/news/announcements) and activates on Steam. Additionally, only a few of the games are scripted, meaning it's up to the players to know how to play correctly and manipulate the pieces, as you would in person. 
 
-#### Digtal Board Game Implementations
+#### Digital Board Game Implementations
 
 Recently, several publishers have been releasing digital versions of their board games for purchase. Again, a downside is that, usually, all the players need to own a copy, but you're rewarded with a high quality digital implementation, that's usually scripted. Some popular games include:
 
@@ -91,7 +91,7 @@ Similar to Jackbox, these are local multiplayer games designed for couch play. P
 Join a voice chat and try these games!
 
 - [Wiki Game](https://www.thewikigame.com/group) - Race from one wikipedia article to another 
-- [Stribbl.io](https://skribbl.io/) - take it in turns to guesss each others drawings
+- [Stribbl.io](https://skribbl.io/) - take it in turns to guess each others drawings
 - [LetsDraw](https://letsdraw.it/) - pictionary, drawing contest and competetive copying
 
 ### Multiplayer Video Games
@@ -152,7 +152,7 @@ Choose your favourite TV show or Movie, use the extension to start a party, then
 
 Prepare some trivia questions by googling  "trivia questions" for resources, then hop on your favourite video chat, or use a streaming service such as Twitch, Facebook Live, or YouTube Live. You're in charge, but the general format would be several rounds of categories, followed by general knowledge questions. Then you can read out the answers and have your friends mark themselves!
 
-### Games Over Video Chat
+### Parlour Games Over Video Chat
 
 There's a whole bunch of classic parlour games that can be easily adapted to video calls.
 Examples include:
@@ -162,7 +162,7 @@ Examples include:
  - Would you Rather?
  - Never have I ever
  
- Here are some longer lists and explainations for the ones you don't know:
+ Here are some longer lists and explanations for the ones you don't know:
  
   - [ClassyWish - 15 best games to play on Facetime](http://www.classywish.com/games-to-play-over-facetime/)
   - [Free Apps for Me - 15 Cool Games to Play over Facetime or Skype Calls](https://freeappsforme.com/games-to-play-over-skype/)
