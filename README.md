@@ -2,7 +2,7 @@
 
 Suggested distant socializing tools, games and activities to help keep in touch with family, friends and loved ones during social distancing and the coronavirus (COVID-19) pandemic.
 
-Gave a game, tool or activity you think should be included? Contributions are encouraged. For information on how to contribute see [contributing.md](https://github.com/Pezmc/distant-socializing/blob/master/CONTRIBUTING.md)!
+Have a game, tool or activity you think should be included? Contributions are encouraged. For information on how to contribute see [contributing.md](https://github.com/Pezmc/distant-socializing/blob/master/CONTRIBUTING.md)!
 
 On mobile, click [view all of README.md](https://github.com/Pezmc/distant-socializing/blob/master/README.md) below for the list!
 
