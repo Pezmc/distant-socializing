@@ -21,6 +21,7 @@ On mobile, click [view all of README.md](https://github.com/Pezmc/distant-social
 
 #### Paid
 
+- [Whereby](https://whereby.com) - Browser based video calls and screen sharing, paid, **free** tier allows 1-4 people per room
 - [Zoom](https://zoom.us/pricing) - Video calls and screen sharing, paid, **free** tier allows 100 users for up to 40 minutes
 
 ## Games
