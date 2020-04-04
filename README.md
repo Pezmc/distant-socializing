@@ -11,18 +11,25 @@ On mobile, click [view all of README.md](https://github.com/Pezmc/distant-social
 
 ### Video Calls
 
+#### Open Source
+
+- [Jami](https://jami.net/) - Peer2Peer Network, with TLS encryption and supported by FOSS
+- [Jitsi Meet](https://meet.jit.si/) - Up to 50 users in one room. Open Source Video Conferencing, which is behind 8x8 Video Meetings, Rocket.chat, Martix/Riot and more. No registration needed. Has apps for iOS,Android App and can be ussed in the browser at the PC. It can be self-hosted. 
+- [Nextcloud Talk](https://nextcloud.com/talk/) - Nextcloud is a cloud-application which can be self-hosted. Nextcloud Talk is the collaboration tool of it.
+
+
 #### Free
 
+- [Google Duo](https://duo.google.com/) - Up to 12 users in one call, apps for Android, iOS or web. Needs a google account.
 - [Google Hangouts](https://hangouts.google.com/) - Up to 25 users, screen sharing, apps for Android, iOS and works in browser
 - [Facetime](https://support.apple.com/en-gb/HT204380) - Apple only video calls on Mac and iPhone, maximum 32 users
-- [Skype](https://www.skype.com/en/) - Up to 10 users, screen sharing and remote desktop
+- [Wire](https://wire.com/) - End-to-end enrcypted messenging and (video) calls.
 - [Discord](https://discordapp.com/) - Chat app, with video and voice calling, no limit for voice participants
 - [HouseParty](https://houseparty.com/) - An app for iOS and Android for group video chat with up to 8 people, it also includes games such as Heads Up, Draw Something and Quizzes
 
 #### Paid
 
 - [Whereby](https://whereby.com) - Browser based video calls and screen sharing, paid, **free** tier allows 1-4 people per room
-- [Zoom](https://zoom.us/pricing) - Video calls and screen sharing, paid, **free** tier allows 100 users for up to 40 minutes
 
 ## Games
 
