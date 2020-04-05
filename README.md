@@ -26,10 +26,13 @@ On mobile, click [view all of README.md](https://github.com/Pezmc/distant-social
 - [Wire](https://wire.com/) - End-to-end enrcypted messenging and (video) calls.
 - [Discord](https://discordapp.com/) - Chat app, with video and voice calling, no limit for voice participants
 - [HouseParty](https://houseparty.com/) - An app for iOS and Android for group video chat with up to 8 people, it also includes games such as Heads Up, Draw Something and Quizzes
+- [Skype](https://www.skype.com/en/) - Up to 10 users, screen sharing and remote desktop
 
 #### Paid
 
 - [Whereby](https://whereby.com) - Browser based video calls and screen sharing, paid, **free** tier allows 1-4 people per room
+- [Zoom](https://zoom.us/pricing) - Video calls and screen sharing, paid, **free** tier allows 100 users for up to 40 minutes
+
 
 ## Games
 
