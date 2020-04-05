@@ -17,7 +17,6 @@ On mobile, click [view all of README.md](https://github.com/Pezmc/distant-social
 - [Jitsi Meet](https://meet.jit.si/) - Up to 50 users in one room. Open Source Video Conferencing, which is behind 8x8 Video Meetings, Rocket.chat, Martix/Riot and more. No registration needed. Has apps for iOS,Android App and can be ussed in the browser at the PC. It can be self-hosted. 
 - [Nextcloud Talk](https://nextcloud.com/talk/) - Nextcloud is a cloud-application which can be self-hosted. Nextcloud Talk is the collaboration tool of it.
 
-
 #### Free
 
 - [Google Duo](https://duo.google.com/) - Up to 12 users in one call, apps for Android, iOS or web. Needs a google account.
@@ -32,7 +31,6 @@ On mobile, click [view all of README.md](https://github.com/Pezmc/distant-social
 
 - [Whereby](https://whereby.com) - Browser based video calls and screen sharing, paid, **free** tier allows 1-4 people per room
 - [Zoom](https://zoom.us/pricing) - Video calls and screen sharing, paid, **free** tier allows 100 users for up to 40 minutes
-
 
 ## Games
 
