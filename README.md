@@ -102,7 +102,7 @@ Similar to Jackbox, these are local multiplayer games designed for couch play. P
 Join a voice chat and try these games!
 
 - [Wiki Game](https://www.thewikigame.com/group) - Race from one wikipedia article to another 
-- [Stribbl.io](https://skribbl.io/) - take it in turns to guess each others drawings
+- [Skribbl.io](https://skribbl.io/) - take it in turns to guess each others drawings
 - [LetsDraw](https://letsdraw.it/) - pictionary, drawing contest and competetive copying
 
 ### Multiplayer Video Games
