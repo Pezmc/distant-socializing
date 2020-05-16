@@ -118,6 +118,7 @@ Since you can't all be in the same room together, you can make use of low latenc
  - [STARWHAL](https://store.steampowered.com/app/263020/STARWHAL/)
  - [Nidhogg](https://store.steampowered.com/app/94400/Nidhogg/)
  - [Lovers in a Dangerous Spacetime](https://store.steampowered.com/app/252110/Lovers_in_a_Dangerous_Spacetime/)
+ - [Keep Talking and Nobody Explodes](https://keeptalkinggame.com/)
  
 ##### Both online and local
  
