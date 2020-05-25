@@ -59,6 +59,7 @@ Some games with a low barrier to entry that work well remotely!
 - [Coup](https://boardgamearena.com/gamepanel?game=coupcitystate) - a strategy and bluffing game for 2-6 players
 - [Telestrations](https://drawception.com/dashboard/) - the telephone game but with drawings 6/12/15 players
 - [Settlers of Catan](https://catanuniverse.com/en/game/) - the classic board game in your browser for free
+- [Decrypto](https://www.decryptr.io/) - Another clue giving game for two teams, 4+ players
 
 #### Gaming Simulators
 
