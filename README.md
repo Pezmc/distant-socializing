@@ -60,7 +60,7 @@ Some games with a low barrier to entry that work well remotely!
 - [Telestrations](https://drawception.com/dashboard/) - the telephone game but with drawings 6/12/15 players
 - [Settlers of Catan](https://catanuniverse.com/en/game/) - the classic board game in your browser for free
 - [Decrypto](https://www.decryptr.io/) - Another clue giving game for two teams, 4+ players
-- [Fake Artist](https://kc-fakeartistonline.herokuapp.com/) - bluffing based drawing game, 3+ players
+- ~[Fake Artist](https://kc-fakeartistonline.herokuapp.com/)~ - taken offline, you can [self host](https://github.com/alenros/fake-artist) - bluffing based drawing game, 3+ players
 - [Spyfall](https://www.spyfall.app/) - bluffing based talking game, 3+ players
 
 #### Gaming Simulators
