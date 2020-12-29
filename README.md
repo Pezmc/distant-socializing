@@ -14,7 +14,7 @@ On mobile, click [view all of README.md](https://github.com/Pezmc/distant-social
 #### Open Source
 
 - [Jami](https://jami.net/) - Peer2Peer Network, with TLS encryption and supported by FOSS
-- [Jitsi Meet](https://meet.jit.si/) - Up to 50 users in one room. Open Source Video Conferencing, which is behind 8x8 Video Meetings, Rocket.chat, Martix/Riot and more. No registration needed. Has apps for iOS,Android App and can be ussed in the browser at the PC. It can be self-hosted. 
+- [Jitsi Meet](https://meet.jit.si/) - Up to 50 users in one room. Open Source Video Conferencing, which is behind 8x8 Video Meetings, Rocket.chat, Martix/Riot and more. No registration needed. Has apps for iOS & Android and can be used in the browser at the PC. It can be self-hosted. 
 - [Nextcloud Talk](https://nextcloud.com/talk/) - Nextcloud is a cloud-application which can be self-hosted. Nextcloud Talk is the collaboration tool of it.
 
 #### Free
@@ -60,7 +60,7 @@ Some games with a low barrier to entry that work well remotely!
 - [Telestrations](https://drawception.com/dashboard/) - the telephone game but with drawings 6/12/15 players
 - [Settlers of Catan](https://catanuniverse.com/en/game/) - the classic board game in your browser for free
 - [Decrypto](https://www.decryptr.io/) - Another clue giving game for two teams, 4+ players
-- ~[Fake Artist](https://kc-fakeartistonline.herokuapp.com/)~ - taken offline, you can [self host](https://github.com/alenros/fake-artist) - bluffing based drawing game, 3+ players
+- ~[Fake Artist](https://fake-artist.herokuapp.com/) - bluffing based drawing game, 3+ players - you can also [self host](https://github.com/alenros/fake-artist) 
 - [Spyfall](https://www.spyfall.app/) - bluffing based talking game, 3+ players
 
 #### Gaming Simulators
