@@ -54,7 +54,8 @@ There are many different board game sites where you can play board games online 
 Some games with a low barrier to entry that work well remotely!
 
 - [Secret Hitler](https://secrethitler.io/) - a social deduction game for 5-10 players ([alternative](http://secret.ethanl.ee))
-- [Codenames](https://www.horsepaste.com/) - a clue giving game for two teams, 4+ players
+- [Codenames](https://codenames.game/) - a clue giving game for two teams. 4+ players
+- [Codenames](https://www.horsepaste.com/) - alternate (worse) website for Codenames.
 - [Cards Against Humanity](http://playingcards.io/game/remote-insensitivity) - a party game with fill in the blanks ([alternative](https://pyx-1.pretendyoure.xyz/zy/game.jsp))
 - [Coup](https://boardgamearena.com/gamepanel?game=coupcitystate) - a strategy and bluffing game for 2-6 players
 - [Telestrations](https://drawception.com/dashboard/) - the telephone game but with drawings 6/12/15 players
